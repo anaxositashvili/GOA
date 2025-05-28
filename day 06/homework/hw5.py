@@ -1,0 +1,12 @@
+#6) ივარჯიშეთ შემდეგ ფუნქციებზე: int, str, float, bool. თითოეულზე გააკეთეთ 3-3 მაგალითი
+print(24)
+print(16)
+print(21)
+print("hello")
+print("world")
+print("ana")
+print(2.4)
+print(23.8)
+print(1.4)
+print(True)
+print(False)
